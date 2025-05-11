@@ -1,6 +1,6 @@
 # IP Address Finder 🌐
 
-![Project Screenshot](./screenshot.png) 
+![Project Screenshot](https://github.com/aneesh-acharyeah/react-ip-address-finder/blob/main/ip-finder.png) 
 A sleek React application that displays your current IP information and allows you to lookup details for any IP address. Features geolocation data, ISP information, and interactive maps.
 
 ## Features ✨
